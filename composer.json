@@ -1,5 +1,5 @@
 {
-    "name": "iamport/rest-client",
+    "name": "100percent-co/iamport-rest-client",
     "description": "아임포트(iamport) REST API 연동을 위한 PHP Client 입니다.",
     "keywords": ["iamport", "pg", "결제"],
     "license": "MIT",
